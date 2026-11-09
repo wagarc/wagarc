@@ -1,41 +1,15 @@
+# Wagner Arcieri
 
+Software developer focused on **applied AI, automation, and Android engineering**.
 
-### Hello ! 
-### I am Wagner Arcieri, an Android and BackEnd Developer. (soon fullstack) 
-### Thanks for visiting my repositories ! <br>:green_heart:</br>
+I build practical software, from native Android applications to AI-powered workflows and agent integrations. I enjoy turning complex ideas into useful, accessible products.
 
-&nbsp;
-&nbsp;
-&nbsp;
+### What I work with
 
+- **Applied AI:** agents, workflow orchestration, MCP, RAG and integrations
+- **Android:** Kotlin, Jetpack Compose, Coroutines, Flow and app architecture
+- **Engineering:** APIs, automation, developer tools and product prototyping
 
-Here you will find some of my latest projects made for study cases and some template Apps ready to be customized. Please, feel free to make Forks, PRs, inform Issues or make comments. All suggestions are appreciated !
+### Connect
 
-&nbsp;
-&nbsp;
-&nbsp; 
-
-
-📫 How to reach me :
- 
-&nbsp; 
-
-
-&nbsp;&nbsp;<a href="https://www.linkedin.com/in/wagner-arcieri/"><img height=50 src="https://cdn2.iconfinder.com/data/icons/social-micon/512/linkedin-512.png"/></a>&nbsp;&nbsp;&nbsp;<a href="mailto:wagner.arcieri@gmail.com"><img height=50 src="https://cdn3.iconfinder.com/data/icons/logos-brands-3/24/logo_brand_brands_logos_gmail-512.png"/>
-</a></br>
-
-
- 
-
-&nbsp; \
-&nbsp; \
-&nbsp; \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-
- 
-
-
-<!---
-WagnerArcieri/WagnerArcieri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[LinkedIn](https://www.linkedin.com/in/wagner-arcieri/)
