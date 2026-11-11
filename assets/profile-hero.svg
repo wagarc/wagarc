@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="t d">
 <title id="t">Wagner Arcieri — AI, automation and digital products</title>
-<desc id="d">A dark editorial-style banner. On the left, Wagner Arcieri and his focus areas. On the right, a visual network connects ideas, AI, workflows and products.</desc>
+<desc id="d">A dark editorial-style banner. On the left, Wagner Arcieri and his focus areas. On the right, a visual network connects ideas, intelligence, workflows and products around a human-centered core.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#252424"/><stop offset="1" stop-color="#090909"/></linearGradient>
   <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFE4C7"/><stop offset="1" stop-color="#FF913B"/></linearGradient>
@@ -26,9 +26,27 @@
 <path d="M988 191C1032 157 1060 150 1083 136" fill="none" stroke="#FF913B" stroke-width="2.5" stroke-linecap="round"/>
 <path d="M983 241C1018 277 1025 296 1047 314" fill="none" stroke="#FF913B" stroke-width="2.5" stroke-linecap="round"/>
 <path d="M903 246C854 270 832 288 805 308" fill="none" stroke="#926B50" stroke-width="2" stroke-dasharray="5 7" stroke-linecap="round"/>
-<circle cx="948" cy="214" r="47" fill="#3B2B24" stroke="#FF913B" stroke-width="2"/>
-<circle cx="948" cy="214" r="36" fill="#5C3624" opacity=".9"/>
-<text x="948" y="224" text-anchor="middle" font-size="27" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#FFF0DD">AI</text>
+<!-- Human-centered intelligence: an individual shaping a network of tools -->
+<circle cx="948" cy="214" r="51" fill="#1F1A18" stroke="#FF913B" stroke-width="2.3"/>
+<circle cx="948" cy="214" r="43" fill="#39271E" stroke="#8F5630" stroke-width="1" opacity=".96"/>
+<circle cx="948" cy="214" r="37" fill="none" stroke="#FFB675" stroke-width=".8" stroke-dasharray="2 8" opacity=".36"/>
+<!-- The person is the center, not the AI label -->
+<path d="M932 233 C932 225 938 224 940 221 L940 217
+C935 214 933 207 934 200 C935 190 941 185 950 185
+C959 185 965 190 965 200 C965 205 963 210 960 213
+L960 221 C963 225 969 226 971 233"
+fill="none" stroke="#FFE1BE" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
+<!-- Neural nodes integrated into the silhouette -->
+<path d="M938 198L947 195L956 199L960 207M947 195L948 207L941 211M948 207L956 212"
+fill="none" stroke="#FF913B" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
+<circle cx="938" cy="198" r="2.4" fill="#FFD2A1"/>
+<circle cx="947" cy="195" r="2.5" fill="#FF913B"/>
+<circle cx="956" cy="199" r="2.4" fill="#FFD2A1"/>
+<circle cx="960" cy="207" r="2.2" fill="#FF913B"/>
+<circle cx="948" cy="207" r="2.2" fill="#FFD2A1"/>
+<circle cx="941" cy="211" r="2.2" fill="#FF913B"/>
+<circle cx="956" cy="212" r="2.2" fill="#FF913B"/>
+<path d="M930 239H967" stroke="#FF913B" stroke-width="1.3" stroke-linecap="round" opacity=".65"/>
 <rect x="713" y="96" width="146" height="68" rx="17" fill="#292624" stroke="#725444"/>
 <circle cx="741" cy="129" r="8" fill="#FFB678"/>
 <text x="760" y="135" fill="#F8F4EE" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="600">Ideas</text>
