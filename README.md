@@ -6,7 +6,7 @@
 
 <div align="center">
 
-I explore ideas, shape digital products, and connect **AI, people, tools and automation** to make complex things easier to use.
+I explore ideas, shape digital products, and connect <strong>AI, people, tools and automation</strong> to make complex things easier to use.
 
 </div>
 
