@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="t d">
+<title id="t">Wagner Arcieri — AI, automation and digital products</title>
+<desc id="d">A dark editorial-style banner. On the left, Wagner Arcieri and his focus areas. On the right, a visual network connects ideas, AI, workflows and products.</desc>
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#17212B"/><stop offset="1" stop-color="#0B1119"/></linearGradient>
+  <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#B2F6E6"/><stop offset="1" stop-color="#55C9BE"/></linearGradient>
+  <radialGradient id="halo"><stop stop-color="#58D7BF" stop-opacity=".15"/><stop offset="1" stop-color="#58D7BF" stop-opacity="0"/></radialGradient>
+  <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1.1" fill="#A2B8BE" opacity=".13"/></pattern>
+</defs>
+<rect width="1200" height="430" rx="26" fill="url(#bg)"/>
+<rect x="640" y="0" width="560" height="430" fill="url(#dots)"/>
+<circle cx="973" cy="210" r="250" fill="url(#halo)"/>
+<path d="M65 66H144" stroke="#6EDCCB" stroke-width="3" stroke-linecap="round"/>
+<text x="160" y="71" fill="#A7C6C8" font-size="15" font-family="Arial, Helvetica, sans-serif" letter-spacing="2.1">EXPLORING WHAT'S POSSIBLE</text>
+<text x="65" y="165" fill="#F6F8FA" font-size="68" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="-2">Wagner</text>
+<text x="65" y="237" fill="#F6F8FA" font-size="68" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="-2">Arcieri<tspan fill="#80E6D3">.</tspan></text>
+<text x="66" y="293" fill="#8BE4D5" font-size="19" font-weight="700" font-family="Arial, Helvetica, sans-serif" letter-spacing="1.1">AI  /  AUTOMATION  /  DIGITAL PRODUCTS</text>
+<text x="66" y="338" fill="#BBC9D1" font-size="19" font-family="Arial, Helvetica, sans-serif">From ideas to connected, useful experiences.</text>
+<path d="M66 387H580" stroke="#31414D" stroke-width="1"/>
+<text x="66" y="407" fill="#8299A5" font-size="13" font-family="Arial, Helvetica, sans-serif" letter-spacing="2">EXPLORE    ·    DESIGN    ·    ORCHESTRATE</text>
+<!-- Visual metaphor: interconnected parts, not a programming diagram -->
+<circle cx="948" cy="214" r="154" fill="none" stroke="#547B80" stroke-width="1" stroke-dasharray="3 11" opacity=".36"/>
+<circle cx="948" cy="214" r="111" fill="none" stroke="#547B80" stroke-width="1.3" opacity=".3"/>
+<circle cx="948" cy="214" r="68" fill="none" stroke="#76DCC9" stroke-width="1.5" opacity=".45"/>
+<path d="M810 134C853 120 876 139 908 179" fill="none" stroke="#74DCC9" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M988 191C1032 157 1060 150 1083 136" fill="none" stroke="#74DCC9" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M983 241C1018 277 1025 296 1047 314" fill="none" stroke="#74DCC9" stroke-width="2.5" stroke-linecap="round"/>
+<path d="M903 246C854 270 832 288 805 308" fill="none" stroke="#688D99" stroke-width="2" stroke-dasharray="5 7" stroke-linecap="round"/>
+<circle cx="948" cy="214" r="47" fill="#1A3840" stroke="#71E1CC" stroke-width="2"/>
+<circle cx="948" cy="214" r="36" fill="#214C50" opacity=".9"/>
+<text x="948" y="224" text-anchor="middle" font-size="27" font-family="Arial, Helvetica, sans-serif" font-weight="700" fill="#BAF6E7">AI</text>
+<rect x="713" y="96" width="146" height="68" rx="17" fill="#22323D" stroke="#567D83"/>
+<circle cx="741" cy="129" r="8" fill="#E0B58C"/>
+<text x="760" y="135" fill="#EAF1F2" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="600">Ideas</text>
+<rect x="1011" y="92" width="152" height="68" rx="17" fill="#22323D" stroke="#567D83"/>
+<circle cx="1038" cy="125" r="8" fill="#81DCC9"/>
+<text x="1057" y="131" fill="#EAF1F2" font-size="17" font-family="Arial, Helvetica, sans-serif" font-weight="600">Workflows</text>
+<rect x="1011" y="291" width="157" height="68" rx="17" fill="#22323D" stroke="#567D83"/>
+<circle cx="1038" cy="324" r="8" fill="#E0B58C"/>
+<text x="1057" y="330" fill="#EAF1F2" font-size="17" font-family="Arial, Helvetica, sans-serif" font-weight="600">Products</text>
+<rect x="729" y="286" width="125" height="55" rx="16" fill="#1C2B35" stroke="#415E68"/>
+<text x="791" y="320" fill="#ACC0C6" text-anchor="middle" font-size="16" font-family="Arial, Helvetica, sans-serif">Experience</text>
+<circle cx="810" cy="134" r="3" fill="#D8FFF5"/>
+<circle cx="1083" cy="136" r="3" fill="#D8FFF5"/>
+<circle cx="1047" cy="314" r="3" fill="#D8FFF5"/>
+</svg>
