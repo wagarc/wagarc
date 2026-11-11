@@ -1,8 +1,8 @@
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero.svg" />
-    <img src="./assets/profile-hero.svg" alt="Wagner Arcieri — AI, automation and digital products" width="100%" />
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/profile-hero-circuits.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/profile-hero-circuits.svg" />
+    <img src="./assets/profile-hero-circuits.svg" alt="Wagner Arcieri — AI, automation and digital products" width="100%" />
   </picture>
 </div>
 
