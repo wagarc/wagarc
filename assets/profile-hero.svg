@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 430" role="img" aria-labelledby="t d">
 <title id="t">Wagner Arcieri — AI, automation and digital products</title>
-<desc id="d">A dark editorial-style banner. On the left, Wagner Arcieri and his focus areas. On the right, a visual network connects ideas, intelligence, workflows and products around a human-centered core.</desc>
+<desc id="d">A dark editorial-style banner. On the left, Wagner Arcieri and his focus areas. On the right, orange circuit traces radiate from an IA nucleus, inspired by the profile picture, linking ideas, workflows and products.</desc>
 <defs>
   <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#252424"/><stop offset="1" stop-color="#090909"/></linearGradient>
   <linearGradient id="mint" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#FFE4C7"/><stop offset="1" stop-color="#FF913B"/></linearGradient>
@@ -26,27 +26,48 @@
 <path d="M988 191C1032 157 1060 150 1083 136" fill="none" stroke="#FF913B" stroke-width="2.5" stroke-linecap="round"/>
 <path d="M983 241C1018 277 1025 296 1047 314" fill="none" stroke="#FF913B" stroke-width="2.5" stroke-linecap="round"/>
 <path d="M903 246C854 270 832 288 805 308" fill="none" stroke="#926B50" stroke-width="2" stroke-dasharray="5 7" stroke-linecap="round"/>
-<!-- Human-centered intelligence: an individual shaping a network of tools -->
-<circle cx="948" cy="214" r="51" fill="#1F1A18" stroke="#FF913B" stroke-width="2.3"/>
-<circle cx="948" cy="214" r="43" fill="#39271E" stroke="#8F5630" stroke-width="1" opacity=".96"/>
-<circle cx="948" cy="214" r="37" fill="none" stroke="#FFB675" stroke-width=".8" stroke-dasharray="2 8" opacity=".36"/>
-<!-- The person is the center, not the AI label -->
-<path d="M932 233 C932 225 938 224 940 221 L940 217
-C935 214 933 207 934 200 C935 190 941 185 950 185
-C959 185 965 190 965 200 C965 205 963 210 960 213
-L960 221 C963 225 969 226 971 233"
-fill="none" stroke="#FFE1BE" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/>
-<!-- Neural nodes integrated into the silhouette -->
-<path d="M938 198L947 195L956 199L960 207M947 195L948 207L941 211M948 207L956 212"
-fill="none" stroke="#FF913B" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/>
-<circle cx="938" cy="198" r="2.4" fill="#FFD2A1"/>
-<circle cx="947" cy="195" r="2.5" fill="#FF913B"/>
-<circle cx="956" cy="199" r="2.4" fill="#FFD2A1"/>
-<circle cx="960" cy="207" r="2.2" fill="#FF913B"/>
-<circle cx="948" cy="207" r="2.2" fill="#FFD2A1"/>
-<circle cx="941" cy="211" r="2.2" fill="#FF913B"/>
-<circle cx="956" cy="212" r="2.2" fill="#FF913B"/>
-<path d="M930 239H967" stroke="#FF913B" stroke-width="1.3" stroke-linecap="round" opacity=".65"/>
+<!-- IA / circuit nucleus: radial traces and open terminals inspired by the profile avatar -->
+<g fill="none" stroke="#EA8C37" stroke-width="4.2" stroke-linecap="round" stroke-linejoin="round">
+  <!-- Four branches toward surrounding ideas and products -->
+  <path d="M916 180 L903 165 Q899 160 892 160 L879 160"/>
+  <path d="M906 199 L889 190 Q885 188 878 188 L868 188"/>
+  <path d="M901 223 L881 223 L869 234"/>
+  <path d="M914 247 L899 263 L889 279"/>
+  <!-- Radiating upper circuit traces -->
+  <path d="M929 170 L919 149 L919 130"/>
+  <path d="M947 165 L947 145 L937 125"/>
+  <path d="M967 171 L982 148 L989 130"/>
+  <!-- Right-hand branching terminals -->
+  <path d="M983 184 L997 168 L1001 163"/>
+  <path d="M994 206 L1014 206 L1027 216"/>
+  <path d="M995 226 L1012 232 L1027 232"/>
+  <path d="M983 244 L998 258 L1014 274"/>
+  <!-- Lower traces -->
+  <path d="M969 255 L974 274 L983 283"/>
+  <path d="M948 263 L948 287"/>
+  <path d="M929 256 L917 274 L906 281"/>
+</g>
+<!-- Round open-circuit terminals, as in the user's avatar -->
+<g fill="#191513" stroke="#EA8C37" stroke-width="3.7">
+  <circle cx="879" cy="160" r="4.1"/>
+  <circle cx="868" cy="188" r="4.1"/>
+  <circle cx="869" cy="234" r="4.1"/>
+  <circle cx="889" cy="279" r="4.1"/>
+  <circle cx="919" cy="130" r="4.1"/>
+  <circle cx="937" cy="125" r="4.1"/>
+  <circle cx="989" cy="130" r="4.1"/>
+  <circle cx="1001" cy="163" r="4.1"/>
+  <circle cx="1027" cy="216" r="4.1"/>
+  <circle cx="1027" cy="232" r="4.1"/>
+  <circle cx="1014" cy="274" r="4.1"/>
+  <circle cx="983" cy="283" r="4.1"/>
+  <circle cx="948" cy="287" r="4.1"/>
+  <circle cx="906" cy="281" r="4.1"/>
+</g>
+<!-- Central IA mark: no silhouette; circuit paths emerge from the dark hub -->
+<circle cx="948" cy="214" r="48" fill="#12100F" stroke="#D47A30" stroke-width="3.3"/>
+<circle cx="948" cy="214" r="42" fill="none" stroke="#7B4B2C" stroke-width="1" opacity=".45"/>
+<text x="948" y="225" text-anchor="middle" font-size="33" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="1.2" fill="#FFF3E6">IA</text>
 <rect x="713" y="96" width="146" height="68" rx="17" fill="#292624" stroke="#725444"/>
 <circle cx="741" cy="129" r="8" fill="#FFB678"/>
 <text x="760" y="135" fill="#F8F4EE" font-size="18" font-family="Arial, Helvetica, sans-serif" font-weight="600">Ideas</text>
